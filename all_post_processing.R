@@ -3,11 +3,9 @@
 # Created by Mari Webb                                                    
 # March 31, 2023
 # 
-# Inputs: PDSI csvs for each HUC8 in the SW                                            
-# Outputs: CSV of mean PDSI values and PDSI trends for each HUC
-# 
-# This code takes daily pixel counts of SPEI for each HUC8 in the SW and ...                                                              
-# 
+# Inputs: time series csvs for flood, fire, and drought for each HUC8 in the SW                                            
+# Outputs: compounding climate extreme event risk heat map
+# # 
 
 
 
